@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://protirokkha0x0.github.io/protirokkha-website/sitemap.xml
+Sitemap: https://protirokkha.com/sitemap.xml
